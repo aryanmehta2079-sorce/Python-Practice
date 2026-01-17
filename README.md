@@ -1,24 +1,27 @@
 # Python Practice 🚀
 
-This repository contains my daily Python programming practice.
-I am building consistency by coding and pushing updates every day.
+This repository contains my **daily Python practice**, focused on building strong fundamentals and consistent coding habits.
 
-## 📌 What this repo contains
-- Practice programs on Python basics
-- Examples of lists, tuples, loops, and functions
-- Step-by-step learning from fundamentals
+I practice regularly and push updates to GitHub to track real progress.
+
+## 📌 What This Repository Contains
+- Python basics practice programs
+- Examples of lists, tuples, sets, loops, and functions
+- Topic-wise learning from fundamentals
 
 ## 📂 Folder Structure
-- LIST/   → Programs related to Python lists
-- TUPLE/  → Programs related to Python tuples
+- LIST/   → Python list programs  
+- TUPLE/  → Python tuple programs  
+- SETS/   → Python set programs  
 
-## 🎯 Goal
-- Improve Python fundamentals
+## 🎯 Goals
+- Strengthen Python fundamentals
 - Build daily coding discipline
-- Maintain a clean GitHub contribution history
+- Maintain consistent GitHub activity
 
 ## 🗓️ Progress
-- Day 1: List and Tuple practice
+- Day 1: Lists and Tuples
+- Day 2: Sets
 
 ## 🛠️ Tools Used
 - Python
@@ -26,4 +29,4 @@ I am building consistency by coding and pushing updates every day.
 - VS Code
 
 ---
-📌 *This repository is updated daily as part of my learning journey.*
+📌 *This repository is updated regularly as part of my backend development preparation.*
